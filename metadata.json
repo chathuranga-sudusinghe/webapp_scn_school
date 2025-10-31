@@ -1,0 +1,5 @@
+{
+  "name": "iChem Student Portal",
+  "description": "A modern, responsive portal for secondary school students and teachers to manage marks, attendance, fees, and timetables with ease. Built with React, Tailwind CSS, and Firebase.",
+  "requestFramePermissions": []
+}
